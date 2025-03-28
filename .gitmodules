@@ -1,0 +1,12 @@
+[submodule "sdu-semesterproject-dam"]
+	path = sdu-semesterproject-dam
+	url = https://github.com/Nico170f/sdu-semesterproject-dam.git
+[submodule "path/to/submodule"]
+	path = path/to/submodule
+	url = https://github.com/Nico170f/sdu-semesterproject-dam.git
+[submodule "path/to/submoduleD"]
+	path = path/to/submoduleD
+	url = https://github.com/Nico170f/sdu-semesterproject-dam.git
+[submodule "Submodules"]
+	path = Submodules
+	url = https://github.com/Nico170f/sdu-semesterproject-dam.git
