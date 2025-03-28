@@ -10,3 +10,6 @@
 [submodule "Submodules"]
 	path = Submodules
 	url = https://github.com/Nico170f/sdu-semesterproject-dam.git
+[submodule "Submodule"]
+	path = Submodule
+	url = https://github.com/Nico170f/sdu-semesterproject-dam.git
